@@ -53,11 +53,11 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
-        //Função de click no botão Rosa
+        //Função de click no botão Reset
         reset.setOnClickListener(new Button.OnClickListener(){
             public void onClick(View v){
 
-                //Incrementando quantidade de pessoas e mulheres
+                //Zerando variaveis
                 countFemale = 0;
                 countMale = 0;
                 countPeople = 0;
