@@ -14,3 +14,6 @@
 
 - 5 CountPeople
   > Basic touch count
+
+- 6 Calc
+  > Basic Calculator
